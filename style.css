@@ -1,0 +1,30 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #101827;
+    color: #f1f5f9;
+}
+
+.container {
+    max-width: 700px;
+    margin: 100px auto;
+    padding: 40px;
+    text-align: center;
+    background: #1e293b;
+    border-radius: 16px;
+}
+
+h1 {
+    color: #38bdf8;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+#status {
+    color: #4ade80;
+    font-weight: bold;
+}
